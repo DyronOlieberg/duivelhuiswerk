@@ -1,0 +1,171 @@
+
+/* menu */
+nav ul {
+    list-style: none;
+    text-align: right;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+
+    body{
+        background-color: #BC8F8F;
+        }
+        ul a{
+        color: white;
+        text-decoration: line;
+        }
+        li{
+        display: inline-block;
+        height: 15px;
+        width: 100px;
+        padding: 12px;
+        text-align: center;
+        color: white;
+        border-left: 2px solid #FF69B4	;
+        border-right: 1px solid #FF1493	;
+        background-color: #FFB6C1	;
+        }
+        li:hover{
+        background-color: #C71585;
+        border-style: none;
+        }
+        h1{
+        margin-left: 200px;
+        }
+        /* afbeelding */
+        ul{
+            list-style-image: url(afbeelding/pizza.png);
+            margin-left: 20px;
+            font-size: 20px;
+            }
+            h1{
+            margin-left: 20px;
+            }
+
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+
+      /* Plaats de container horizontaal in het midden van de pagina */
+    }
+
+   
+   
+  
+      td {
+          border: 1px solid #1a2aa4;
+          padding: 8px;
+          text-align: left;}
+  
+    th {
+        border: 1px solid #28dd67;
+        background-color:#f7a206;
+        font-weight: bold;
+        text-align: left;
+        padding:  8px;
+        color: white;
+    }
+    body{font-family: Verdana, sans-serif; font-size: 18px; color:
+         #ffffff;}input[type="text"], input[type="email"], 
+         textarea, select, 
+         button{display: block;margin: 
+            10px top;padding:0px 0px;width: 300px;box-sizing: border-box;
+            border-radius: 4px; box-shadow: inset 2px 2px 5px #C71585;}
+            textarea{height: 50px;padding: 0px 0px;
+    }
+    button:active{background-color: #00FF00;color:
+         white;border-radius: 4px; box-shadow: inset 2px 2px 5px #C71585;
+        }
+
+   
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #9e9b9b; /* Achtergrondkleur van de hele pagina (bijv. lichtgrijs) */
+          }
+      
+          /* Stijl voor de header */
+          header {
+            background-color: #00FF00; /* Achtergrondkleur van de header (bijv. lichtroze) */
+            color: white;
+            text-align: center;
+            padding: 0px;
+            width: 100%; /* Laat de header over de hele breedte van de pagina strekken */
+            font-size: 24px; /* Tekstgrootte */
+
+          }
+    
+
+          
+        
+        footer {
+            background-color: #00FF00; /* Achtergrondkleur van de header */
+            width: auto;
+            height: 80px; /* Hoogte van de header */
+            clear: both;
+            margin-top: auto;
+            text-align: center;
+            padding: 0px;
+            width: 100%; /* Laat de header over de hele breedte van de pagina strekken */
+          }
+      
+
+    body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+  
+      
+  
+      body {
+        margin: 20;
+        padding: 0;
+        background-color: #6374d7; /* Achtergrondkleur van de hele pagina (bijv. lichtgrijs) */
+      }
+  
+      /* Stijl voor de container om het formulier */
+      .container {
+        display: flex;
+        justify-content: center; /* Plaats de container horizontaal in het midden van de pagina */
+        align-items: center; /* Plaats de container verticaal in het midden van de pagina */
+        height: 100vh;
+      }
+  
+      /* Stijl voor het formulier */
+      form {
+        text-align: left; /* Uitlijning van de tekst in het formulier naar het midden */
+        background-color: #00FF00;
+        padding: 20px;
+        border-radius: 5px;
+        margin: 30px 0 0 0;
+      }
+      
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #f0f0f0; /* Achtergrondkleur van de hele pagina (bijv. lichtgrijs) */
+        display: flex;
+        justify-content: center; /* Plaats de pagina horizontaal in het midden van de viewport */
+        align-items: center; /* Plaats de pagina verticaal in het midden van de viewport */
+    
+      }
+  
+      /* Stijl voor de tabel */
+
+    .tekst {
+    color: #01010e;
+    padding: 0 100px;
+    margin: 30px 0;
+  }
+
+  .kleur {
+    background-color: #6374d7;
+  }
+
+        
